@@ -8,7 +8,7 @@
 
 | Project | Description |
 |----------|--------------|
-| [**Resizes BetSolar**](https://github.com/orgs/betsolar-org/projects/1) | Initial project steps |
+| [**BetSolar <> Resizes**](https://github.com/orgs/betsolar-org/projects/2) | Initial project steps |
 <!-- | [**solar-dashboard**](https://github.com/betsolar/solar-dashboard) | Modern web app for real-time energy insights. | -->
 <!-- | [**solar-firmware**](https://github.com/betsolar/solar-firmware) | Embedded software for solar devices and controllers. | -->
 <!-- | [**solar-utils**](https://github.com/betsolar/solar-utils) | Shared tools and scripts for automation. | -->
