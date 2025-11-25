@@ -1,5 +1,5 @@
 ---
-name: Standard Task
+name: "\U0001F4C4 Standard Task"
 about: Create a standardized task for all work areas.
 title: ''
 labels: ''
