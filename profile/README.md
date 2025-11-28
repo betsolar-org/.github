@@ -19,7 +19,7 @@
 
 | Site | Access |
 |----------|---------------|
-| Entorno de producción    | [betsolar.cloud](https://betsolar.cloud) * | 
+| Entorno de producción    | <a href="https://betsolar.cloud" target="_blank">betsolar.cloud</a>* | 
 | Backoffice de producción | [backoffice.betsolar.cloud](https://backoffice.betsolar.cloud) | 
 | Entorno de test          | [test.betsolar.cloud](https://test.betsolar.cloud) ** | 
 | Backoffice de test       | [backoffice.test.betsolar.cloud](https://backoffice.test.betsolar.cloud) | 
